@@ -1,5 +1,6 @@
-﻿int monthlyWage = 1234;
-int months = 12, bonus = 1000;
-bool isActive = true;
-double rating= 99.25;
-byte numberOfEmployes = 125;
+﻿using BethanyPieShopHRM;
+int amount = 1234;
+int months = 12;
+int yearlyWage = Utilities.CalculateYearlyWage(amount, months);
+
+Console.WriteLine($"Yearly Wage: {yearlyWage}");

@@ -12,3 +12,4 @@ C:\Users\Operator\Desktop\naukac#\c#_fundamentals\BethanyPieShopHRM\obj\Debug\ne
 C:\Users\Operator\Desktop\naukac#\c#_fundamentals\BethanyPieShopHRM\obj\Debug\net10.0\BethanyPieShopHRM.pdb
 C:\Users\Operator\Desktop\naukac#\c#_fundamentals\BethanyPieShopHRM\obj\Debug\net10.0\BethanyPieShopHRM.genruntimeconfig.cache
 C:\Users\Operator\Desktop\naukac#\c#_fundamentals\BethanyPieShopHRM\obj\Debug\net10.0\ref\BethanyPieShopHRM.dll
+C:\Users\Operator\Desktop\naukac#\c#_fundamentals\BethanyPieShopHRM\obj\Debug\net10.0\BethanyPieShopHRM.sourcelink.json
